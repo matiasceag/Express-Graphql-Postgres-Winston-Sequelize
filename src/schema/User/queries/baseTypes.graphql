@@ -1,0 +1,3 @@
+type Query {
+    _empty: Boolean # Esto es solo un placeholder
+}
